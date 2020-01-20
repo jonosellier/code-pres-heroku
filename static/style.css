@@ -449,3 +449,16 @@
     ul.cm-items li:hover {
         background-color: #F0F0F0;
     }
+
+    .top-bar-btn{
+        border: 2px solid rgba(170, 170, 170, 0.26);
+        border-radius: 0.25em;
+        display: inline-block;
+        padding: 0.5em;
+        font-family: 'Roboto', sans-serif;
+        font-size: 1em;
+        margin: 0.25em;
+        cursor: pointer;
+        background-color: #dfdfdf;
+        color: rgb(170, 170, 170);
+    }
